@@ -1,0 +1,4 @@
+downloads/
+.vscode/
+geckodriver.log
+urls.txt
