@@ -20,7 +20,7 @@ It uses a module called `selenium` and Firefox's `geckodriver` in order to load 
 
 ## Long term plans
 
-Since I don't really have much other need for this, you can say it's pretty much "complete." However, as this is open-sourced, I want people to use this script to ease their life too and as such, the features that have yet to be added are listed in the [issues pages](/issues). Feel free to fork this repo and contribute.
+Since I don't really have much other need for this, you can say it's pretty much "complete." However, as this is open-sourced, I want people to use this script to ease their life too and as such, the features that have yet to be added are listed in the [issues pages](https://github.com/Spimy/gogoanime-downloader/issues). Feel free to fork this repo and contribute.
 
 
 ## Setup
@@ -34,7 +34,7 @@ You should have the following installed:
 
 ### Installation
 
-1. Head on over to the [release page](/releases) and download the latest version.
+1. Head on over to the [release page](https://github.com/Spimy/gogoanime-downloader/releases) and download the latest version.
 2. Extract the folder and open it.
 3. Run `pip install -r requirements.txt` in a console opened in the folder.
 4. Provide the urls for the script as explained in the [next section](#providing-urls-for-the-script)
@@ -43,4 +43,4 @@ You should have the following installed:
 
 ### Providing urls for the script
 
-Create a file called `urls.txt` and add the urls of the anime you want to download separated by a new line in the file. An example can be found in the [`urls.txt.example`](/blob/master/urls.txt.example) file.
+Create a file called `urls.txt` and add the urls of the anime you want to download separated by a new line in the file. An example can be found in the [`urls.txt.example`](/urls.txt.example) file.
