@@ -101,7 +101,7 @@ def scrape_init(urls) -> List[Dict[str, str]]:
 
 if __name__ == '__main__':
     urls = []
-    allowed_domains = ['gogoanime.so', 'gogoanime.movie']
+    allowed_domains = ['gogoanime.so', 'gogoanime.movie', 'gogoanime.ai']
     
     with open('urls.txt', 'r') as f:
         for line in f:
